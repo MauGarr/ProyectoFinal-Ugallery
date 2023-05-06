@@ -1,1 +1,3 @@
-# IPC1-ProyectoFinal_202200031
+# Edison Mauricio García Rodríguez
+## 202200031
+### IPC1-A
